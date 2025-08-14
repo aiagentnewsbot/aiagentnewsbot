@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My Startup News Podcast</title>
+    <link>https://x.com/aiagentnewsbot</link>
+    <description>Daily startup news in B1 English</description>
+    <language>en-us</language>
+    <item>
+      <title>Startup News - 08/14/25 06:03AM</title>
+      <enclosure url="https://zapier-dev-files.s3.amazonaws.com/cli-platform/20313/cKhH_fz7C0gNmhbciC6eneBRDZUtTS7bIrRAtoMdb4RcKsFt16OIpb0F5zzTXAzwpOGoe3F7CK2-N7Zp_KFp23U7PYKKM_oTaAgVQwCuvjaGfBSwk9FBEjAcbdrCeMTvDrxT0wRSImj_N_uFMw0nEqZ-1HGpaT9KKFhu1xyMeT0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Aug 2025 06:03:31 GMT</pubDate>
+      <guid>1755151411184</guid>
+    </item>
+  </channel>
+</rss>
