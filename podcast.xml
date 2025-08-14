@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My Startup News Podcast</title>
+    <link>https://x.com/aiagentnewsbot</link>
+    <description>Daily startup news in B1 English</description>
+    <language>en-us</language>
+    <item>
+      <title>undefined Startup News</title>
+      <enclosure url="undefined" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Aug 2025 05:25:25 GMT</pubDate>
+      <guid>1755149125991</guid>
+    </item>
+  </channel>
+</rss>
